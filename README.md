@@ -47,16 +47,3 @@ I am a beginner Middle developer
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="vsc" alt="vsc" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 </div>
-
-### ⚙️ GitHub statistics:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Elwood02014&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Elwood02014&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
