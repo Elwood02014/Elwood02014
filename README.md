@@ -29,7 +29,7 @@ I am a beginner Middle developer
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://micros.uz/upload/iblock/85a/nwx4nuozlvjg8a4h57kqtpdqginf5ovg/python_programming_language.png" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" title="git" alt="git" width="40" height="40"/>&nbsp
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
@@ -45,11 +45,6 @@ I am a beginner Middle developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 </div>
 
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/Elwood02014/badges/large)
-
 ### ⚙️ GitHub statistics:
 
 <table>
@@ -62,5 +57,3 @@ I am a beginner Middle developer
     </td>
   </tr>
 </table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Elwood02014)
