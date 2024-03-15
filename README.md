@@ -4,7 +4,8 @@
 
 ### :man_technologist: For me:
 
-I am a beginner Middle developer
+
+I am a junior developer
 
 ---
 
