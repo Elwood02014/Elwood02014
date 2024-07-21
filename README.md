@@ -34,6 +34,7 @@ I am a junior developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" title="Lua" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/164px-Python-logo-notext.svg.png" title="Python" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2Fbrands-and-social-media%2Fpycharm-icon.svg&tbnid=MTHS8qkYEJhbQM&vet=12ahUKEwi5qPK0w7eHAxXIkv0HHX-ICGkQMygBegQIARBK..i&imgrefurl=https%3A%2F%2Fuxwing.com%2Fpycharm-icon%2F&docid=_hOJi_Zq96t3WM&w=800&h=800&q=avatars%20for%20pycharm&ved=2ahUKEwi5qPK0w7eHAxXIkv0HHX-ICGkQMygBegQIARBK" title="Python" alt="git" width="40" height="40"/>&nbsp
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
