@@ -5,7 +5,7 @@
 ### :man_technologist: For me:
 
 
-I am a junior developer
+I am a Software Idiot
 
 ---
 
