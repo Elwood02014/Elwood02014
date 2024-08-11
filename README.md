@@ -18,8 +18,6 @@ I am a Software Idiot
     <a href="https://discord.com/users/739395799729045554" target="_blank">
       <img src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo" width="40" height="40" alt="Zen Badge"/>
     </a>
-    <a href="https://instagram.com/a1eksxmj" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png" alt="discord-logo" width="40" height="40" alt="Zen Badge"/>
     </a>
   </div>
 
