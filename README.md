@@ -1,4 +1,4 @@
-# Hello! My name is Oleksandr!
+# Hello! My name is Alex!
 
 ---
 
