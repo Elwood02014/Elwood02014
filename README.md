@@ -48,9 +48,7 @@ I am a Software Idiot
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" title="C" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Boost.svg/1200px-Boost.svg.png" title="Boost" alt="git" width="40" height="40"/>&nbsp
-
-  
-  <img src="https://e7.pngegg.com/pngimages/794/1022/png-clipart-qt-creator-qt-quick-the-qt-company-posted-write-text-trademark-thumbnail.png" title="Qt" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/png-clipart-qt-creator-qt-quick-the-qt-company-posted-write-text-trademark-thumbnail-removebg-preview.png" title="Qt" alt="git" width="40" height="40"/>&nbsp
 
 
   
