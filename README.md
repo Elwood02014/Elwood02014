@@ -30,9 +30,10 @@ I am a Software Idiot
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="Bootstrap" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/foundation-logo-png_seeklogo-273099-removebg-preview.png" title="Foundation" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(1).png" title="CSS" alt="Materialize" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(1).png" title="CSS" alt="Materialize" width="40" height="40"/>&nbsp
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview.png" title="Tailwind CSS" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(2).png" title="Bulma" alt="git" width="40" height="40"/>&nbsp   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" title="JavaScript" alt="git" width="40" height="40"/>&nbsp  
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" title="Lua" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/164px-Python-logo-notext.svg.png" title="Python" alt="git" width="40" height="40"/>&nbsp
