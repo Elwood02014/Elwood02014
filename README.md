@@ -42,11 +42,10 @@ I am a Software Idiot
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/png-transparent-jquery-hd-logo-removebg-preview.png" title="jQuery" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/164px-Python-logo-notext.svg.png" title="Python" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail-removebg-preview.png" title="Django" alt="git" width="40" height="40"/>&nbsp
-
+  <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(3).png" title="Flask" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(4).png" title="Fast API" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/14927208?s=280&v=4" title="Scapy" alt="git" width="40" height="40"/>&nbsp
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
