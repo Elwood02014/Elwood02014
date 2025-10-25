@@ -25,7 +25,7 @@ I am a Software Idiot
 
 ### 💻 Technologies:
 
-<div>https://cdn.worldvectorlogo.com/logos/spring-3.svg
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="Bootstrap" alt="git" width="40" height="40"/>&nbsp
@@ -54,10 +54,10 @@ I am a Software Idiot
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(5).png" title="Hibernate" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/struts-logo-png_seeklogo-273928-removebg-preview.png" title="Apache Struts" alt="git" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/353931/jhipster-icon.svg" title="JHipster" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/373445/assembly.svg" title="Assembly" alt="git" width="40" height="40"/>&nbsp
 
 
   
-  <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
