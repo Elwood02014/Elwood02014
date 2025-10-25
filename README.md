@@ -25,7 +25,7 @@ I am a Software Idiot
 
 ### 💻 Technologies:
 
-<div>
+<div>https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail.png
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="Bootstrap" alt="git" width="40" height="40"/>&nbsp
@@ -40,8 +40,9 @@ I am a Software Idiot
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Angular" alt="git" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next.js" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/png-transparent-jquery-hd-logo-removebg-preview.png" title="jQuery" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/164px-Python-logo-notext.svg.png" title="Python" alt="git" width="40" height="40"/>&nbsp
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail.png" title="Django" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
@@ -53,7 +54,7 @@ I am a Software Idiot
 
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" title="Lua" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/164px-Python-logo-notext.svg.png" title="Python" alt="git" width="40" height="40"/>&nbsp
+
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
