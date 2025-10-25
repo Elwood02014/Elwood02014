@@ -50,7 +50,7 @@ I am a Software Idiot
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Boost.svg/1200px-Boost.svg.png" title="Boost" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/png-clipart-qt-creator-qt-quick-the-qt-company-posted-write-text-trademark-thumbnail-removebg-preview.png" title="Qt" alt="git" width="40" height="40"/>&nbsp
 
-  <img src="https://toppng.com/uploads/preview/java-logo-vector-free-download-115742383154zj1d34hyu.png" title="Java" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" title="Lua" alt="git" width="40" height="40"/>&nbsp
 
