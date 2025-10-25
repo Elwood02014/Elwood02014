@@ -56,14 +56,11 @@ I am a Software Idiot
   <img src="https://www.svgrepo.com/show/353931/jhipster-icon.svg" title="JHipster" alt="git" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/373445/assembly.svg" title="Assembly" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/netwide-assembler-nasm4852.logowik.com-removebg-preview.png" title="NASM" alt="git" width="40" height="40"/>&nbsp
-
-
-  
   <img src="https://www.svgheart.com/wp-content/uploads/2021/11/mardi-gras-mask-silhouette-carnival-svg-SvgHeart.Com-1.png" title="MASM" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(6).png" title="Ghidra" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(7).png" title="Ruby" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(8).png" title="Ruby on Rails" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/97AFS4JiW8vx-removebg-preview.png" title="Metasploit" alt="git" width="40" height="40"/>&nbsp
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" title="Lua" alt="git" width="40" height="40"/>&nbsp
 
