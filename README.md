@@ -50,11 +50,13 @@ I am a Software Idiot
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Boost.svg/1200px-Boost.svg.png" title="Boost" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/png-clipart-qt-creator-qt-quick-the-qt-company-posted-write-text-trademark-thumbnail-removebg-preview.png" title="Qt" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" title="Spring Boot " alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(5).png" title="Hibernate" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/struts-logo-png_seeklogo-273928-removebg-preview.png" title="Apache Struts" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/353931/jhipster-icon.svg" title="JHipster" alt="git" width="40" height="40"/>&nbsp
 
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" title="Java" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
+
+  
   <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/2/2e/Java_Logo.svg/644px-Java_Logo.svg.png" title="Java" alt="git" width="40" height="40"/>&nbsp
