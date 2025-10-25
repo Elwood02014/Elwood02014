@@ -40,7 +40,7 @@ I am a Software Idiot
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Angular" alt="git" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next.js" alt="git" width="40" height="40"/>&nbsp
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://w7.pngwing.com/pngs/1004/13/png-transparent-jquery-hd-logo-thumbnail.png" title="jQuery" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
