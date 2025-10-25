@@ -50,7 +50,7 @@ I am a Software Idiot
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Boost.svg/1200px-Boost.svg.png" title="Boost" alt="git" width="40" height="40"/>&nbsp
 
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Vue.js" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://e7.pngegg.com/pngimages/794/1022/png-clipart-qt-creator-qt-quick-the-qt-company-posted-write-text-trademark-thumbnail.png" title="Qt" alt="git" width="40" height="40"/>&nbsp
 
 
   
