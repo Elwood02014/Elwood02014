@@ -34,7 +34,8 @@ I am a Software Idiot
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(1).png" title="CSS" alt="Materialize" width="40" height="40"/>&nbsp
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview.png" title="Tailwind CSS" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(2).png" title="Bulma" alt="git" width="40" height="40"/>&nbsp   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" title="JavaScript" alt="git" width="40" height="40"/>&nbsp  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" title="JavaScript" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="JavaScript" alt="git" width="40" height="40"/>&nbsp  
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" title="Lua" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/164px-Python-logo-notext.svg.png" title="Python" alt="git" width="40" height="40"/>&nbsp
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
