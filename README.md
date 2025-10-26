@@ -68,7 +68,7 @@ I am a Software Idiot
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(10).png" title="SQKLite" alt="SQKLite" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/331738/mysql-database.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
-  <img src="https://pngdownload.io/wp-content/uploads/2024/02/PHP-Logo-symbol-of-the-scripting-language-web-development-transparent-PNG-image-jpg.webp" title="PHP" alt="PHP" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/452088/php.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp
 
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
