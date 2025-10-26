@@ -79,6 +79,7 @@ I am a Software Idiot
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/2048px-2023_Obsidian_logo.svg.png" title="Obsidian" alt="Obsidian" width="40" height="40"/>&nbsp;
+  <img src="https://www.vhv.rs/dpng/d/474-4743356_unity-logo-png-transparent-svg-vector-unity-icon.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>&nbsp;
