@@ -12,10 +12,10 @@ I am a Software Idiot
 ### 🤝 Social:
 
   <div id="badges">
-    <a href="https://t.me/ElwoodRL" target="_blank">
+    <a href="https://t.me/Elwood01" target="_blank">
       <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40" height="40" alt="Telegram"/>
     </a>
-    <a href="https://discord.com/users/739395799729045554" target="_blank">
+    <a href="https://discord.gg/S5c8EGQs" target="_blank">
       <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" width="40" height="40" alt="Zen Badge"/>
     </a>
     </a>
