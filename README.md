@@ -94,6 +94,7 @@ I am a Software Idiot
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/goland-ide-icon.png" title="GoLand" alt="GoLand" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" title="DataGrip" alt="DataGrip" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jetbrains-dataspell-icon.png" title="DataSpell" alt="DataSpell" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Roblox_Studio_logo_-_2022.svg/1200px-Roblox_Studio_logo_-_2022.svg.png" title="Roblox Studio" alt="Roblox Studio" width="40" height="40"/>&nbsp;
 
   
