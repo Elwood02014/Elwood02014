@@ -40,6 +40,7 @@ I am a Software Idiot
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" title="Angular" alt="Angular" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/png-transparent-jquery-hd-logo-removebg-preview.png" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp
+  <img src="https://www.clipartmax.com/png/middle/87-879058_formation-node-js-node-js-logo-vector.png" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/164px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail-removebg-preview.png" title="Django" alt="Django" width="40" height="40"/>&nbsp
   <img src="https://github.com/Elwood02014/Icon-for-rdm/blob/main/images-removebg-preview(3).png" title="Flask" alt="Flask" width="40" height="40"/>&nbsp
